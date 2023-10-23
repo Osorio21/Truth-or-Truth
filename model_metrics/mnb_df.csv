@@ -1,0 +1,2 @@
+,Training Accuracy,Testing Accuracy,Sensitivity,Specificity,Precision,Misclassification Rate,F1 Score
+Multinomail Naive Bayes,0.889,0.848,0.816,0.872,0.834,0.152,0.825

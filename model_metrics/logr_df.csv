@@ -1,0 +1,2 @@
+,Training Accuracy,Testing Accuracy,Sensitivity,Specificity,Precision,Misclassification Rate,F1 Score
+Logistic Regression,0.892,0.842,0.826,0.856,0.818,0.158,0.822

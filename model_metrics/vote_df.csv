@@ -1,0 +1,2 @@
+,Training Accuracy,Testing Accuracy,Sensitivity,Specificity,Precision,Misclassification Rate,F1 Score
+Vote,0.902,0.847,0.829,0.861,0.824,0.153,0.826
